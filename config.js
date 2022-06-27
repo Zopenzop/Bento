@@ -12,12 +12,12 @@ const CONFIG = {
 
 	// General
 	name: 'Zop',
-	imageBackground: true,
+	imageBackground: false,
 	openInNewTab: true,
 	twelveHourFormat: false,
 
 	// Greetings
-	greetingMorning: 'Rise and shine lad!',
+	greetingMorning: 'Rise and shine,',
 	greetingAfternoon: 'Good afternoon,',
 	greetingEvening: 'Good evening,',
 	greetingNight: 'Good night!',
